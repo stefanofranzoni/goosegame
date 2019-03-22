@@ -1,0 +1,8 @@
+Il progetto è stato realizzato in java; per la compilazione, è richiesto un jdk versione 1.7 o superiore.
+Il progetto è mavenizzato. 
+Per compilarlo, utilizzare il comando:
+mvn clean package
+
+Per eseguirlo, utilizzare il comando:
+mvn exec:java
+
